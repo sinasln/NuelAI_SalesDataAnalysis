@@ -1,0 +1,8 @@
+{
+    "api_url": "https://calendarific.com/api/v2/holidays",
+    "params": {
+        "api_key": "CJ3CeRxWFbPe9C521ik1sY1ymTsg54Sd",
+        "country": "US",
+        "year": "2019"
+    }
+}
