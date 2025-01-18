@@ -1,0 +1,15 @@
+openai
+fastapi
+pydantic
+pandas
+seaborn
+matplotlib
+statsmodels
+transformers
+scikit-learn
+streamlit
+numpy
+requests
+altair
+geopy
+folium
